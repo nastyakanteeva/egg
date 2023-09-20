@@ -1,0 +1,15 @@
+C:\Users\Nitro 5\source\repos\egg\egg\bin\Debug\net6.0\egg.exe
+C:\Users\Nitro 5\source\repos\egg\egg\bin\Debug\net6.0\egg.deps.json
+C:\Users\Nitro 5\source\repos\egg\egg\bin\Debug\net6.0\egg.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\egg\egg\bin\Debug\net6.0\egg.dll
+C:\Users\Nitro 5\source\repos\egg\egg\bin\Debug\net6.0\egg.pdb
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.dll
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\refint\egg.dll
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.pdb
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\egg.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\egg\egg\obj\Debug\net6.0\ref\egg.dll
